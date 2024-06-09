@@ -1,4 +1,7 @@
 # ChatBOT
+Etapa Prática: Iniciação Científica em NLP para Serviços de Saúde
+
+Autor: Ítalo Mendes Machado
 ## Desenvolvimento
 Para a criação do ChatBOT, busquei maneiras de utilizar o ChatGPT para responder às questões sobre o Vestibular Unicamp 2024. A partir da documentação da API OpenAI e busca de conteúdo na internet, encontrei uma forma de gerar texto com a IA. O papel da IA é fundamental, sendo um ChatBOT que busca respostas em uma URL específica e interage com o usuário. No código, uma lista de mensagens mantém o contexto para a IA, enquanto suas respostas são gravadas para criar um histórico coeso.
 
